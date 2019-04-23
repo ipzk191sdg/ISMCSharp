@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.exe.config
+C:\Users\HP\source\repos\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.exe
+C:\Users\HP\source\repos\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.pdb
+C:\Users\HP\source\repos\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.exe
+C:\Users\HP\source\repos\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.pdb
