@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm01", "WinForm01\WinF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleQuadEquation", "ConsoleQuadEquation\ConsoleQuadEquation.csproj", "{524DDD3F-2383-4D8C-8461-F4D0C40F32C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadEquationWinForm", "QuadEquationWinForm\QuadEquationWinForm.csproj", "{C0BD5AE9-0056-46EE-9522-DFC7767BF812}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{524DDD3F-2383-4D8C-8461-F4D0C40F32C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{524DDD3F-2383-4D8C-8461-F4D0C40F32C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{524DDD3F-2383-4D8C-8461-F4D0C40F32C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BD5AE9-0056-46EE-9522-DFC7767BF812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BD5AE9-0056-46EE-9522-DFC7767BF812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BD5AE9-0056-46EE-9522-DFC7767BF812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BD5AE9-0056-46EE-9522-DFC7767BF812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

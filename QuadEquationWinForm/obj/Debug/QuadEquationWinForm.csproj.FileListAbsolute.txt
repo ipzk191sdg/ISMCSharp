@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ISMCSharp\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ISMCSharp\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.Form1.resources
+C:\Users\HP\source\repos\ISMCSharp\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.Properties.Resources.resources
+C:\Users\HP\source\repos\ISMCSharp\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ISMCSharp\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ISMCSharp\QuadEquationWinForm\bin\Debug\QuadEquationWinForm.exe.config
+C:\Users\HP\source\repos\ISMCSharp\QuadEquationWinForm\bin\Debug\QuadEquationWinForm.exe
+C:\Users\HP\source\repos\ISMCSharp\QuadEquationWinForm\bin\Debug\QuadEquationWinForm.pdb
+C:\Users\HP\source\repos\ISMCSharp\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.exe
+C:\Users\HP\source\repos\ISMCSharp\QuadEquationWinForm\obj\Debug\QuadEquationWinForm.pdb
