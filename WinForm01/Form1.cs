@@ -30,17 +30,17 @@ namespace WinForm01
                 {
                     MessageBox.Show("Помилка. Введiть значення a.");
                 }
-                a = Convert.ToDouble(textBoxA.Text);
+                else { a = Convert.ToDouble(textBoxA.Text); }
                 if (!Double.TryParse(textBoxB.Text, out b))
                 {
                     MessageBox.Show("Помилка. Введiть значення b.");
                 }
-                b = Convert.ToDouble(textBoxB.Text);
+                else { b = Convert.ToDouble(textBoxB.Text); }
                 if (!Double.TryParse(textBoxX.Text, out x))
                 {
                     MessageBox.Show("Помилка. Введiть значення x.");
                 }
-                x = Convert.ToDouble(textBoxX.Text);
+                else { x = Convert.ToDouble(textBoxX.Text); }
                 double y = 2.4 * Math.Abs((x * x + b) / a) + (a - b) * Math.Pow(Math.Sin(a - b), 2) + Math.Pow(10, -2) * (x - b);
                 labelY.Text = "y = " + y.ToString();
             }

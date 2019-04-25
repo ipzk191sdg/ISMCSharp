@@ -30,17 +30,17 @@ namespace QuadEquationWinForm
                 {
                     MessageBox.Show("Помилка. Введiть значення a.");
                 }
-                a = Convert.ToDouble(textBoxA.Text);
+                else { a = Convert.ToDouble(textBoxA.Text); }
                 if (!Double.TryParse(textBoxB.Text, out b))
                 {
                     MessageBox.Show("Помилка. Введiть значення b.");
                 }
-                b = Convert.ToDouble(textBoxB.Text);
+                else { b = Convert.ToDouble(textBoxB.Text); }
                 if (!Double.TryParse(textBoxC.Text, out c))
                 {
                     MessageBox.Show("Помилка. Введiть значення x.");
                 }
-                c = Convert.ToDouble(textBoxC.Text);
+                else { c = Convert.ToDouble(textBoxC.Text); }
                 double d = b * b - 4 * a * c;
                 if (d == 0)
                 {
