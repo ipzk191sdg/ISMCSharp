@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ISMCSharp\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Users\HP\source\repos\ISMCSharp\Arrays1\bin\Debug\Arrays1.exe
+C:\Users\HP\source\repos\ISMCSharp\Arrays1\bin\Debug\Arrays1.pdb
+C:\Users\HP\source\repos\ISMCSharp\Arrays1\obj\Debug\Arrays1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ISMCSharp\Arrays1\obj\Debug\Arrays1.Form1.resources
+C:\Users\HP\source\repos\ISMCSharp\Arrays1\obj\Debug\Arrays1.Properties.Resources.resources
+C:\Users\HP\source\repos\ISMCSharp\Arrays1\obj\Debug\Arrays1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ISMCSharp\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ISMCSharp\Arrays1\obj\Debug\Arrays1.exe
+C:\Users\HP\source\repos\ISMCSharp\Arrays1\obj\Debug\Arrays1.pdb
