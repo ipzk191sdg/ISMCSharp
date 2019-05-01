@@ -56,10 +56,10 @@
             // 
             // buttonCount
             // 
-            this.buttonCount.Location = new System.Drawing.Point(387, 9);
-            this.buttonCount.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.buttonCount.Location = new System.Drawing.Point(344, 8);
+            this.buttonCount.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonCount.Name = "buttonCount";
-            this.buttonCount.Size = new System.Drawing.Size(112, 41);
+            this.buttonCount.Size = new System.Drawing.Size(100, 36);
             this.buttonCount.TabIndex = 0;
             this.buttonCount.Text = "Додати";
             this.buttonCount.UseVisualStyleBackColor = true;
@@ -73,37 +73,37 @@
             this.dataArr.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dataArr.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataArr.Location = new System.Drawing.Point(13, 66);
-            this.dataArr.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.dataArr.Location = new System.Drawing.Point(12, 57);
+            this.dataArr.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dataArr.Name = "dataArr";
-            this.dataArr.Size = new System.Drawing.Size(708, 265);
+            this.dataArr.Size = new System.Drawing.Size(629, 230);
             this.dataArr.TabIndex = 1;
             // 
             // labelN
             // 
             this.labelN.AutoSize = true;
-            this.labelN.Location = new System.Drawing.Point(13, 18);
+            this.labelN.Location = new System.Drawing.Point(12, 16);
             this.labelN.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelN.Name = "labelN";
-            this.labelN.Size = new System.Drawing.Size(210, 23);
+            this.labelN.Size = new System.Drawing.Size(183, 20);
             this.labelN.TabIndex = 2;
             this.labelN.Text = "Введіть кількість елементів:";
             // 
             // textBoxN
             // 
-            this.textBoxN.Location = new System.Drawing.Point(231, 15);
-            this.textBoxN.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.textBoxN.Location = new System.Drawing.Point(205, 13);
+            this.textBoxN.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBoxN.Name = "textBoxN";
-            this.textBoxN.Size = new System.Drawing.Size(148, 29);
+            this.textBoxN.Size = new System.Drawing.Size(132, 26);
             this.textBoxN.TabIndex = 3;
             // 
             // buttonFill
             // 
             this.buttonFill.Enabled = false;
-            this.buttonFill.Location = new System.Drawing.Point(507, 9);
-            this.buttonFill.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.buttonFill.Location = new System.Drawing.Point(451, 8);
+            this.buttonFill.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonFill.Name = "buttonFill";
-            this.buttonFill.Size = new System.Drawing.Size(112, 41);
+            this.buttonFill.Size = new System.Drawing.Size(100, 36);
             this.buttonFill.TabIndex = 4;
             this.buttonFill.Text = "Заповнити";
             this.buttonFill.UseVisualStyleBackColor = true;
@@ -111,9 +111,9 @@
             // 
             // buttonSumNg
             // 
-            this.buttonSumNg.Location = new System.Drawing.Point(388, 339);
+            this.buttonSumNg.Location = new System.Drawing.Point(345, 295);
             this.buttonSumNg.Name = "buttonSumNg";
-            this.buttonSumNg.Size = new System.Drawing.Size(111, 30);
+            this.buttonSumNg.Size = new System.Drawing.Size(99, 26);
             this.buttonSumNg.TabIndex = 5;
             this.buttonSumNg.Text = "Розрахувати";
             this.buttonSumNg.UseVisualStyleBackColor = true;
@@ -123,9 +123,9 @@
             // labelSumNg
             // 
             this.labelSumNg.AutoSize = true;
-            this.labelSumNg.Location = new System.Drawing.Point(13, 343);
+            this.labelSumNg.Location = new System.Drawing.Point(12, 298);
             this.labelSumNg.Name = "labelSumNg";
-            this.labelSumNg.Size = new System.Drawing.Size(254, 23);
+            this.labelSumNg.Size = new System.Drawing.Size(218, 20);
             this.labelSumNg.TabIndex = 6;
             this.labelSumNg.Text = "Сума від’ємних елементів масиву";
             this.labelSumNg.Visible = false;
@@ -133,36 +133,36 @@
             // SumNg
             // 
             this.SumNg.AutoSize = true;
-            this.SumNg.Location = new System.Drawing.Point(273, 343);
+            this.SumNg.Location = new System.Drawing.Point(243, 298);
             this.SumNg.Name = "SumNg";
-            this.SumNg.Size = new System.Drawing.Size(0, 23);
+            this.SumNg.Size = new System.Drawing.Size(0, 20);
             this.SumNg.TabIndex = 7;
             this.SumNg.Visible = false;
             // 
             // Max
             // 
             this.Max.AutoSize = true;
-            this.Max.Location = new System.Drawing.Point(273, 379);
+            this.Max.Location = new System.Drawing.Point(243, 330);
             this.Max.Name = "Max";
-            this.Max.Size = new System.Drawing.Size(0, 23);
+            this.Max.Size = new System.Drawing.Size(0, 20);
             this.Max.TabIndex = 10;
             this.Max.Visible = false;
             // 
             // labelMax
             // 
             this.labelMax.AutoSize = true;
-            this.labelMax.Location = new System.Drawing.Point(13, 379);
+            this.labelMax.Location = new System.Drawing.Point(12, 330);
             this.labelMax.Name = "labelMax";
-            this.labelMax.Size = new System.Drawing.Size(187, 23);
+            this.labelMax.Size = new System.Drawing.Size(156, 20);
             this.labelMax.TabIndex = 9;
             this.labelMax.Text = "Максимальний елемент";
             this.labelMax.Visible = false;
             // 
             // buttonMax
             // 
-            this.buttonMax.Location = new System.Drawing.Point(388, 375);
+            this.buttonMax.Location = new System.Drawing.Point(345, 326);
             this.buttonMax.Name = "buttonMax";
-            this.buttonMax.Size = new System.Drawing.Size(111, 30);
+            this.buttonMax.Size = new System.Drawing.Size(99, 26);
             this.buttonMax.TabIndex = 8;
             this.buttonMax.Text = "Розрахувати";
             this.buttonMax.UseVisualStyleBackColor = true;
@@ -172,27 +172,27 @@
             // MaxInd
             // 
             this.MaxInd.AutoSize = true;
-            this.MaxInd.Location = new System.Drawing.Point(273, 415);
+            this.MaxInd.Location = new System.Drawing.Point(243, 361);
             this.MaxInd.Name = "MaxInd";
-            this.MaxInd.Size = new System.Drawing.Size(0, 23);
+            this.MaxInd.Size = new System.Drawing.Size(0, 20);
             this.MaxInd.TabIndex = 13;
             this.MaxInd.Visible = false;
             // 
             // labelMaxInd
             // 
             this.labelMaxInd.AutoSize = true;
-            this.labelMaxInd.Location = new System.Drawing.Point(13, 415);
+            this.labelMaxInd.Location = new System.Drawing.Point(12, 361);
             this.labelMaxInd.Name = "labelMaxInd";
-            this.labelMaxInd.Size = new System.Drawing.Size(249, 23);
+            this.labelMaxInd.Size = new System.Drawing.Size(211, 20);
             this.labelMaxInd.TabIndex = 12;
             this.labelMaxInd.Text = "Індекс максимального елемента";
             this.labelMaxInd.Visible = false;
             // 
             // buttonMaxInd
             // 
-            this.buttonMaxInd.Location = new System.Drawing.Point(388, 411);
+            this.buttonMaxInd.Location = new System.Drawing.Point(345, 357);
             this.buttonMaxInd.Name = "buttonMaxInd";
-            this.buttonMaxInd.Size = new System.Drawing.Size(111, 30);
+            this.buttonMaxInd.Size = new System.Drawing.Size(99, 26);
             this.buttonMaxInd.TabIndex = 11;
             this.buttonMaxInd.Text = "Розрахувати";
             this.buttonMaxInd.UseVisualStyleBackColor = true;
@@ -202,27 +202,27 @@
             // MaxAbs
             // 
             this.MaxAbs.AutoSize = true;
-            this.MaxAbs.Location = new System.Drawing.Point(306, 454);
+            this.MaxAbs.Location = new System.Drawing.Point(272, 395);
             this.MaxAbs.Name = "MaxAbs";
-            this.MaxAbs.Size = new System.Drawing.Size(0, 23);
+            this.MaxAbs.Size = new System.Drawing.Size(0, 20);
             this.MaxAbs.TabIndex = 16;
             this.MaxAbs.Visible = false;
             // 
             // labelMaxAbs
             // 
             this.labelMaxAbs.AutoSize = true;
-            this.labelMaxAbs.Location = new System.Drawing.Point(12, 454);
+            this.labelMaxAbs.Location = new System.Drawing.Point(11, 395);
             this.labelMaxAbs.Name = "labelMaxAbs";
-            this.labelMaxAbs.Size = new System.Drawing.Size(276, 23);
+            this.labelMaxAbs.Size = new System.Drawing.Size(234, 20);
             this.labelMaxAbs.TabIndex = 15;
             this.labelMaxAbs.Text = "Максимальний елемент за модулем";
             this.labelMaxAbs.Visible = false;
             // 
             // buttonMaxAbs
             // 
-            this.buttonMaxAbs.Location = new System.Drawing.Point(388, 447);
+            this.buttonMaxAbs.Location = new System.Drawing.Point(345, 389);
             this.buttonMaxAbs.Name = "buttonMaxAbs";
-            this.buttonMaxAbs.Size = new System.Drawing.Size(111, 30);
+            this.buttonMaxAbs.Size = new System.Drawing.Size(99, 26);
             this.buttonMaxAbs.TabIndex = 14;
             this.buttonMaxAbs.Text = "Розрахувати";
             this.buttonMaxAbs.UseVisualStyleBackColor = true;
@@ -232,27 +232,27 @@
             // SumPosInd
             // 
             this.SumPosInd.AutoSize = true;
-            this.SumPosInd.Location = new System.Drawing.Point(288, 486);
+            this.SumPosInd.Location = new System.Drawing.Point(256, 423);
             this.SumPosInd.Name = "SumPosInd";
-            this.SumPosInd.Size = new System.Drawing.Size(0, 23);
+            this.SumPosInd.Size = new System.Drawing.Size(0, 20);
             this.SumPosInd.TabIndex = 19;
             this.SumPosInd.Visible = false;
             // 
             // labelSumPosInd
             // 
             this.labelSumPosInd.AutoSize = true;
-            this.labelSumPosInd.Location = new System.Drawing.Point(12, 486);
+            this.labelSumPosInd.Location = new System.Drawing.Point(11, 423);
             this.labelSumPosInd.Name = "labelSumPosInd";
-            this.labelSumPosInd.Size = new System.Drawing.Size(259, 23);
+            this.labelSumPosInd.Size = new System.Drawing.Size(222, 20);
             this.labelSumPosInd.TabIndex = 18;
             this.labelSumPosInd.Text = "Сума індексів додатних елементів";
             this.labelSumPosInd.Visible = false;
             // 
             // buttonSumPosInd
             // 
-            this.buttonSumPosInd.Location = new System.Drawing.Point(388, 482);
+            this.buttonSumPosInd.Location = new System.Drawing.Point(345, 419);
             this.buttonSumPosInd.Name = "buttonSumPosInd";
-            this.buttonSumPosInd.Size = new System.Drawing.Size(111, 30);
+            this.buttonSumPosInd.Size = new System.Drawing.Size(99, 26);
             this.buttonSumPosInd.TabIndex = 17;
             this.buttonSumPosInd.Text = "Розрахувати";
             this.buttonSumPosInd.UseVisualStyleBackColor = true;
@@ -262,27 +262,27 @@
             // CountInt
             // 
             this.CountInt.AutoSize = true;
-            this.CountInt.Location = new System.Drawing.Point(272, 522);
+            this.CountInt.Location = new System.Drawing.Point(242, 454);
             this.CountInt.Name = "CountInt";
-            this.CountInt.Size = new System.Drawing.Size(0, 23);
+            this.CountInt.Size = new System.Drawing.Size(0, 20);
             this.CountInt.TabIndex = 22;
             this.CountInt.Visible = false;
             // 
             // labelCountInt
             // 
             this.labelCountInt.AutoSize = true;
-            this.labelCountInt.Location = new System.Drawing.Point(12, 522);
+            this.labelCountInt.Location = new System.Drawing.Point(11, 454);
             this.labelCountInt.Name = "labelCountInt";
-            this.labelCountInt.Size = new System.Drawing.Size(224, 23);
+            this.labelCountInt.Size = new System.Drawing.Size(196, 20);
             this.labelCountInt.TabIndex = 21;
             this.labelCountInt.Text = "Кількість цілих чисел у масиві";
             this.labelCountInt.Visible = false;
             // 
             // buttonCountInt
             // 
-            this.buttonCountInt.Location = new System.Drawing.Point(387, 518);
+            this.buttonCountInt.Location = new System.Drawing.Point(344, 450);
             this.buttonCountInt.Name = "buttonCountInt";
-            this.buttonCountInt.Size = new System.Drawing.Size(111, 30);
+            this.buttonCountInt.Size = new System.Drawing.Size(99, 26);
             this.buttonCountInt.TabIndex = 20;
             this.buttonCountInt.Text = "Розрахувати";
             this.buttonCountInt.UseVisualStyleBackColor = true;
@@ -291,9 +291,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 23F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(734, 556);
+            this.ClientSize = new System.Drawing.Size(652, 483);
             this.Controls.Add(this.CountInt);
             this.Controls.Add(this.labelCountInt);
             this.Controls.Add(this.buttonCountInt);
@@ -317,9 +317,9 @@
             this.Controls.Add(this.labelN);
             this.Controls.Add(this.dataArr);
             this.Controls.Add(this.buttonCount);
-            this.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.MinimumSize = new System.Drawing.Size(750, 595);
+            this.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.MinimumSize = new System.Drawing.Size(668, 522);
             this.Name = "Form1";
             this.Text = "Завдання 1";
             ((System.ComponentModel.ISupportInitialize)(this.dataArr)).EndInit();

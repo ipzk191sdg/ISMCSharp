@@ -188,7 +188,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(853, 692);
+            this.ClientSize = new System.Drawing.Size(853, 441);
             this.Controls.Add(this.buttonProductMinMax);
             this.Controls.Add(this.labelProductMinMax);
             this.Controls.Add(this.buttonSumNulls);
@@ -204,7 +204,7 @@
             this.Controls.Add(this.buttonCount);
             this.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.MinimumSize = new System.Drawing.Size(697, 39);
+            this.MinimumSize = new System.Drawing.Size(869, 480);
             this.Name = "Form1";
             this.Text = "Завдання 2";
             ((System.ComponentModel.ISupportInitialize)(this.dataArr)).EndInit();
