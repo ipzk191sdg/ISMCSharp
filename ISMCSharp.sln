@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPLib1", "OOPLib1\OOPLib1.csproj", "{E991D5A4-E2FB-4535-9D26-DC7E471D4066}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPLib2", "OOPLib2\OOPLib2.csproj", "{8B64AE9C-158A-46B4-ACD8-F42527AFC2B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{6F9C5608-E32F-4A02-98A8-F2971C6B5DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{E991D5A4-E2FB-4535-9D26-DC7E471D4066}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E991D5A4-E2FB-4535-9D26-DC7E471D4066}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E991D5A4-E2FB-4535-9D26-DC7E471D4066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B64AE9C-158A-46B4-ACD8-F42527AFC2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B64AE9C-158A-46B4-ACD8-F42527AFC2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B64AE9C-158A-46B4-ACD8-F42527AFC2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B64AE9C-158A-46B4-ACD8-F42527AFC2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9C5608-E32F-4A02-98A8-F2971C6B5DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9C5608-E32F-4A02-98A8-F2971C6B5DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9C5608-E32F-4A02-98A8-F2971C6B5DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9C5608-E32F-4A02-98A8-F2971C6B5DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
